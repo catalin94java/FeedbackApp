@@ -43,7 +43,7 @@ public class IntroducereFeedback extends JDialog {
 	
 
 
-	/**
+	/** 
 	 * Launch the application.
 	 */
 	
